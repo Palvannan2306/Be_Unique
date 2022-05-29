@@ -1,5 +1,4 @@
 # Be_Unique
 
 This page is not responsive.
-
-![Web-page](https://user-images.githubusercontent.com/63332776/170861672-55e6322d-6619-44c2-9a52-2468c2731570.png)
+![WP](https://user-images.githubusercontent.com/63332776/170861813-edc2e804-7ec8-4a63-978f-70235bb6d43d.png)
