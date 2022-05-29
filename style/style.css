@@ -1,0 +1,345 @@
+
+/* topic */
+
+
+.nav-link{
+    color: whitesmoke; 
+    font-size: 1.5rem;
+    
+}
+.navbar-brand{
+    color: antiquewhite;
+    font-size: 2.5rem;   
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+
+
+#topic{
+    padding: 5% 7%;
+    background-color: #666ca7;
+    text-align: center;
+}
+
+.topic-img{
+    width: 40%;
+}
+
+.topic-head{
+    position: absolute;
+    bottom:20%;
+    left: 30%;
+
+}
+
+#topic-head-h1{
+    color:white;
+    font-family: 'Source Serif Pro', serif;
+    font-size: 10rem;
+}
+
+.topic-text{
+    color:white;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    font-size: 1.2rem;
+    padding: 2% 25% 1% 25%;
+    letter-spacing: 2.5px;
+
+}
+
+.topic-btn{
+    padding: 1% 2%;
+}
+
+/* idea */
+
+.idea-div-1{
+    margin: auto;
+    padding: 0% 10%;
+}
+
+.idea-img-1{
+    width: 90%;
+    margin: 5% 5%;
+}
+
+.idea-text{
+    padding: 3% 10%;
+}
+
+.idea-text-head{
+    color: #666ca7;
+    font-size: 3rem;
+}
+
+.idea-text-p{
+    font-size: 1.3em;
+    font-family: 'Open Sans', sans-serif;
+    padding: 3% 3%;
+}
+
+
+.idea-btn{
+    padding: 3% 5%;
+    margin: 0 5%;
+    background-color: #666ca7;
+    color: antiquewhite;
+}
+
+.idea-img-2{
+    background-color: #666ca7;
+    border-radius: 100%;
+    height: 50%; 
+    padding: 20% 20%;   
+}
+
+.idea-div-2{
+    text-align: center;
+    padding: 0 15%;
+}
+
+.idea-div-2-text{
+    text-align: justify;
+    font-size: 1.2rem;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+/* explanation */
+
+#explanation{
+    background-color: #666ca7;
+}
+
+.explanation-div-head{
+    color: antiquewhite;
+    padding:  5% 60% 5% 10%;
+    
+}
+.explanation-head{
+    font-size: 3rem;
+}
+.explanation-p-1{
+    color: antiquewhite;
+    margin: 3% 20%;
+    font-size: 1.2rem;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.explanation-div-p{
+    padding-bottom: 10%;
+}
+.explanation-p-2{
+    color: antiquewhite;
+    margin: 3% 45% 3% 0%;
+    font-size: 1.2rem;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.explanation-btn{
+    background-color:#e87ea8 ;
+    color: antiquewhite;
+    width: 200px;
+}
+
+/* tips */
+#tips{
+    text-align: center;
+    position: relative;
+}
+
+.tips-img{
+    width: 60%;
+    position: static;
+    right: 150px;
+    padding: 10%;
+    
+}
+
+.tips-ul {
+    list-style: none;
+  }
+
+.tips-ul li::before {
+    content: "\2022";
+    color:#666ca7;
+    font-weight: bold;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+  }
+.tips-card-title{
+    color: #666ca7;
+    font-size: 250%;
+}
+
+
+.tips-card{
+    background-color: #C4DDFF;
+    border-radius: 5%;
+    text-align: left;
+    padding: 2% 0 4% 2% ;
+    position:absolute;
+    top: 40%;
+    bottom: 0.5%;
+    left: 60%;
+}
+
+
+.tips-btn{
+    background-color:#666ca7;
+    color: antiquewhite;
+    width: 200px;
+}
+
+.tips-li{
+    font-size: 150%;
+    line-height: 2;
+}
+
+/* testimonial */
+
+#testimonial{
+    background-color: #666ca7;
+    text-align: center;
+    margin-top: 10%;
+}
+.testimonial-card{
+    width: 85%;
+    height: 110%;
+    border-radius: 30px;
+}
+.testimonial-img{
+    border-radius:50% 50% 50% 50%;
+    padding: 10%;
+    margin-bottom: 10%;
+}
+
+.testimonial-row{
+    padding: 10% 15%;
+}
+
+#testimonial-card-1,#testimonial-card-3{
+    background-color: azure;
+}
+#testimonial-card-2{
+    background-color: #e87ea8;
+    
+}
+
+.testimonial-card-text-2{
+    color: antiquewhite;
+    font-size: 1.3rem;
+
+}
+
+.testimonial-card-text-1,.testimonial-card-text-3{
+    font-size: 1.3rem;
+}
+
+/* quote */
+
+#quote{
+    text-align: center;
+}
+
+#quote-text{
+    color: #666ca7;
+}
+
+#quote-head{
+    padding: 2% 25%;
+}
+
+.quote-img{
+    width: 25%;
+}
+
+.quote-btn{
+    background-color:#666ca7;
+    color: antiquewhite;
+    width: 200px;
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+
+
+/* doubts */
+
+#doubts{
+    background-color:#f2f2f2 ;
+    
+    padding: 5% 25%;
+}
+
+.doubts-text{
+    text-align: left;
+}
+
+.doubts-head{
+    color: #666ca7;
+}
+
+.doubts-img{
+    width: 100%;
+}
+
+.doubts-p-1,.doubts-p-2{
+    
+    margin: 3% 5% 3% 0%;
+    font-size: 1.2rem;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+/* contact */
+
+#contact{
+    text-align: left;
+}
+
+.contact-row{
+    padding: 5% 17%;
+    
+}
+
+.contact-input{
+    background-color: #f2f2f2;
+    width: 75%;
+    margin-bottom: 5%;
+    border: none;
+    font-size: 1.3rem;
+    height: 3rem;
+}
+.contact-input-submit{
+    background-color: #666ca7;
+    width: 75%;
+    margin-bottom: 5%;
+    border: none;
+    font-size: 1.3rem;
+    height: 3rem;
+    color: antiquewhite;
+    font-weight: bold;
+}
+
+.contact-loc{
+    font-size:2rem;
+    color: gray;
+}
+
+.contact-icon-row{
+    padding: 2% 50% 2% 0;
+    
+}
+
+/* footer */
+
+#footer{
+    background-color: #333333;
+    color: antiquewhite;
+    text-align: center;
+    padding: 5% 35%;
+}
